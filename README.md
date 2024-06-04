@@ -30,7 +30,7 @@ To get started with this project, ensure you have Rust installed on your system.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/anti_sandbox.git
+git clone https://github.com/vwilzz/anti_sandbox.git
 
 # Navigate to the project directory
 cd anti_sandbox
