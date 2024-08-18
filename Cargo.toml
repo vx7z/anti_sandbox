@@ -1,10 +1,15 @@
 [package]
 name = "anti_sandbox"
-version = "1.0.0"
-edition = "2024"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+version = "0.1.0"
+edition = "2021"
 
 [dependencies]
-sysinfo = "0.30.5"
-windows = { version = "0.52.0", features = ["Win32_System_SystemInformation", "Win32_Foundation", "Win32_System_Registry"] }
+sysinfo = "0.29.0"
+
+[dependencies.windows]
+version = "0.48.0"
+features = [
+    "Win32_System_SystemInformation",
+    "Win32_System_Registry",
+    "Win32_Foundation",
+]
