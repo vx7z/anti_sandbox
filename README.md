@@ -1,6 +1,6 @@
 # Anti-Sandbox: Advanced Environment Analysis Tool
 
-![Anti-Sandbox Logo](https://example.com/path-to-your-logo.png)
+![Anti-Sandbox Logo](https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/7f108399-1282-4488-890a-4ebf5a034f00/avatar)
 
 ## Executive Summary
 
