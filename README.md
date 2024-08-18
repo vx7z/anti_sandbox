@@ -39,19 +39,3 @@ git clone https://github.com/YourOrganization/anti-sandbox.git
 cd anti-sandbox
 cargo build --release
 cargo run --release
-
-
-
-Output Interpretation
-The application provides detailed, professional-grade output indicating potential virtualization or sandbox detection:
-
-[ALERT] Potential virtualized environment detected: Insufficient CPU cores
-[ALERT] Potential sandbox environment detected: Limited process count
-
-
-
-Contribution Guidelines
-We welcome contributions from security professionals and developers. Please adhere to our coding standards and submit pull requests for review.
-
-Licensing Information
-Anti-Sandbox is proprietary software. All rights reserved. Unauthorized distribution or use is strictly prohibited.
