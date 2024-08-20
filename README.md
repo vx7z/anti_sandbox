@@ -35,7 +35,7 @@ Anti-Sandbox leverages cutting-edge technologies:
 Ensure Rust toolchain is installed on your system. Execute the following commands:
 
 ```sh
-git clone https://github.com/YourOrganization/anti-sandbox.git
+git clone https://github.com/vx7z/anti-sandbox.git
 cd anti-sandbox
 cargo build --release
 cargo run --release
